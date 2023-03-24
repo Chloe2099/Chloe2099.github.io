@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,N as l}from"./chunks/framework.cd9250a1.js";const _=JSON.parse('{"title":"2023 Annual Plan","description":"","frontmatter":{},"headers":[],"relativePath":"life/2023/plan.md"}'),n={name:"life/2023/plan.md"},o=l("",10),i=[o];function r(s,h,p,c,d,m){return e(),t("div",null,i)}const g=a(n,[["render",r]]);export{_ as __pageData,g as default};
