@@ -1,0 +1,1 @@
+import{_ as i,o as l,c as o,N as t}from"./chunks/framework.cd9250a1.js";const m=JSON.parse('{"title":"2023 Book List 📖","description":"","frontmatter":{},"headers":[],"relativePath":"list/book/index.md"}'),e={name:"list/book/index.md"},a=t("",2),s=[a];function _(n,r,c,d,p,h){return l(),o("div",null,s)}const f=i(e,[["render",_]]);export{m as __pageData,f as default};
