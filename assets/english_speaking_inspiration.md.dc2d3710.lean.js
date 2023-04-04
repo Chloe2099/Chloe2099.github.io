@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,N as t}from"./chunks/framework.cd9250a1.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english/speaking/inspiration.md"}'),i={name:"english/speaking/inspiration.md"},r=t("",204),h=[r];function n(u,l,s,d,y,c){return e(),a("div",null,h)}const k=o(i,[["render",n]]);export{b as __pageData,k as default};

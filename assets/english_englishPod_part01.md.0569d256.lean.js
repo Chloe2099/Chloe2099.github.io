@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,N as a}from"./chunks/framework.cd9250a1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english/englishPod/part01.md"}'),i={name:"english/englishPod/part01.md"},s=a("",12),r=[s];function n(l,p,c,d,h,_){return t(),o("div",null,r)}const f=e(i,[["render",n]]);export{m as __pageData,f as default};
