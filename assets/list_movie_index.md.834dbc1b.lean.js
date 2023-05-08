@@ -1,1 +1,0 @@
-import{_ as i,o as l,c as e,N as p}from"./chunks/framework.cd9250a1.js";const T=JSON.parse('{"title":"2023 Movie List 📽️","description":"","frontmatter":{},"headers":[],"relativePath":"list/movie/index.md"}'),t={name:"list/movie/index.md"},o=p("",2),a=[o];function n(s,r,c,d,h,u){return l(),e("div",null,a)}const m=i(t,[["render",n]]);export{T as __pageData,m as default};

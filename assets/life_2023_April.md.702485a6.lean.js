@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as o,N as t}from"./chunks/framework.cd9250a1.js";const g=JSON.parse('{"title":"Spring Awakening 🌷","description":"","frontmatter":{},"headers":[],"relativePath":"life/2023/April.md"}'),n={name:"life/2023/April.md"},r=t("",6),i=[r];function s(l,h,d,m,p,c){return a(),o("div",null,i)}const y=e(n,[["render",s]]);export{g as __pageData,y as default};
