@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.cd9250a1.js";const y=JSON.parse('{"title":"Blooming Beauty 🌷","description":"","frontmatter":{},"headers":[],"relativePath":"life/2023/May.md"}'),n={name:"life/2023/May.md"},i=o("",9),s=[i];function r(h,l,d,u,m,f){return t(),a("div",null,s)}const g=e(n,[["render",r]]);export{y as __pageData,g as default};

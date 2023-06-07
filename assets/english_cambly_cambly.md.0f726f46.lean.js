@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,N as n}from"./chunks/framework.cd9250a1.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"english/cambly/cambly.md"}'),i={name:"english/cambly/cambly.md"},a=n("",2),r=[a];function s(p,l,g,h,u,c){return o(),t("div",null,r)}const m=e(i,[["render",s]]);export{d as __pageData,m as default};
